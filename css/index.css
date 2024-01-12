@@ -1,0 +1,124 @@
+.mi-nav {
+  background-color: rgba(2, 255, 2, 0.203);
+  color: white;
+}
+
+.cuadro-0 {
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+  text-align: left;
+  border: 1px solid rgb(0, 45, 18);
+  border-radius: 10px;
+  box-shadow: 4px 4px 7px #032500;
+  padding: 10px;
+  margin-left: 70px;
+}
+
+.cuadro-1 {
+  background-color: rgba(2, 255, 2, 0.203);
+  justify-content: center;
+  text-align: left;
+  border: 1px solid rgb(0, 45, 18);
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #032500;
+  padding: 10px;
+  margin-left: 40px;
+  margin-right: 50px;
+  color: black;
+}
+
+.cuadro-2 {
+  text-align: left;
+  background-color: rgba(2, 255, 2, 0.203);
+  justify-content: center;
+  text-align: left;
+  border: 1px solid rgb(0, 45, 18);
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #032500;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: black;
+}
+
+.cuadro-3 {
+  background-color: rgba(2, 255, 2, 0.203);
+  justify-content: center;
+  text-align: left;
+  border: 1px solid rgb(0, 45, 18);
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #032500;
+  padding: 10px;
+  margin-left: 150px;
+  color: black;
+}
+
+.cuadro-4 {
+  text-align: left;
+  background-color: rgba(2, 255, 2, 0.203);
+  justify-content: center;
+  border: 1px solid rgb(0, 45, 18);
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #032500;
+  padding: 10px;
+  margin-left: 90px;
+  color: black;
+}
+
+.cuadro-5{
+  text-align: left;
+  background-color: rgba(0, 188, 0, 0.203);
+  justify-content: center;
+  border: 1px solid rgb(0, 45, 18);
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #032500;
+  padding: 10px;
+  margin-left: 30px;
+  margin-top: 38px;
+  color: black;
+}
+
+.cuadro-6{
+  text-align: left;
+  background-color: rgba(0, 188, 0, 0.203);
+  justify-content: left;
+  border: 1px solid rgb(0, 45, 18);
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #032500;
+  padding: 10px;
+  margin-left: 120px;
+  margin-top: 38px;
+  color: black;
+}
+
+.cuadro-7{
+  text-align: left;
+  background-color: rgba(0, 188, 0, 0.203);
+  justify-content: left;
+  border: 1px solid rgb(0, 45, 18);
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #032500;
+  padding: 10px;
+  margin-left: 40px;
+  margin-top: 10px;
+  color: black;
+}
+
+.linea{
+  width: 95%; 
+  margin: 40px auto;
+  color: black;
+  border: 3px solid black;
+}
+
+.redes-sociales{
+    text-align: center;
+    justify-content: left;
+    margin-top: 40px;
+}
+
+.horario-atencion{
+  text-align: center;
+  justify-content: center;
+  margin-right: 40px;
+}
